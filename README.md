@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SinTerrible
-- 👀 I’m interested in living
-- 🌱 I’m currently learning html
+- 👀 I’m interested in typing stuff
+- 🌱 I’m currently learning html and python
 - 💞️ I’m looking to code more stuff
 - 📫 How to reach me ... just dont pls
 
